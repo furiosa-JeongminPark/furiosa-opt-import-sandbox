@@ -11,6 +11,7 @@ RUST_TOOLCHAIN_CHANNEL := $(shell sed -n 's/^channel = "\(.*\)"/\1/p' rust-toolc
 .PHONY: help
 help:
 	@echo "Available commands:"
+	@echo "Copybara import sandbox probe"
 	@echo "  make check              - Run cargo check"
 	@echo "  make clippy             - Run clippy linter"
 	@echo "  make fmt                - Run code formatter check"
