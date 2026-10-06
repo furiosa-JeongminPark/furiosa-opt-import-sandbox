@@ -1,6 +1,6 @@
 # Summary
 
-- [Introduction](./introduction.md)
+- [Introduction and Overview](./introduction.md)
 - [Quick Start](./quick-start.md)
   + [Setup and Tooling](./quick-start/setup-and-tooling.md)
   + [Tensor and Contraction](./quick-start/tensor-and-contraction.md)
